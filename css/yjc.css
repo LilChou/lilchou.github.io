@@ -1,0 +1,14 @@
+/*div {
+	border: 1px solid;
+	color: white;
+}*/
+
+.ds-slider-right {
+	float: right !important;
+	text-align: right !important;
+}
+
+.white-font {
+	border-color: white !important;
+	color: white !important;
+}
