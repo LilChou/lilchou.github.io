@@ -1,0 +1,9 @@
+@media screen and (max-width: 1000px) {
+    /* show hamburger rather than desktop nav */
+    #desktop-nav {
+        display: none;
+    }
+    #hamburger-nav {
+        display: flex;
+    }
+}
